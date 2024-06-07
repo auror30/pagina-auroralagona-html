@@ -1,0 +1,165 @@
+body { 
+    background-color: black;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    margin-left: 0px;
+    display:flex;
+    transform: scale(1.0);
+    justify-content:space-around;
+}
+
+header {
+    max-width: 2000px;
+    background-color:black;
+    font-size: 15px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+header li a {
+    margin: 20px;
+    padding: 10px;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    }
+    
+
+header nav ul {
+margin: 20px;
+padding: 10px;
+list-style: none;
+display: flex;
+gap: 20px;
+}
+
+header a {
+text-decoration: none;
+color:white ;
+
+}
+
+
+section.class.info.div {
+    max-width: 130%;
+    margin: 10%;
+    display:flex;
+    transform: scale(1.0);
+    justify-content: space-between;
+
+}
+
+.info h2 {
+    color: white;
+    font-size: 650%;
+    font-family: sans-serif;
+    transform: scale(1.0);
+    justify-content: 60px center;
+    margin: 322px;
+    position:sticky;
+    right: 20px;
+    
+}
+
+
+.card img {
+    max-width: 100%;
+    margin: 280px;
+    list-style:none;
+    display: flex;
+    justify-content:space-around;
+    
+}
+
+.testo p {
+    color: white;
+    font-size: 200%;
+    font-family: sans-serif;
+    transform: scale(1.0);
+    justify-content:center;
+    margin: 300px;
+    
+}
+
+.testo h2 {
+    color:#F2970F;
+    font-size: 400%;
+    font-family: sans-serif;
+    transform: scale(1.0);
+    justify-content:center;
+    margin: 300px;
+    right: 20px;
+    
+}
+
+.testo2 p {
+    color: white;
+    font-size: 200%;
+    font-family: sans-serif;
+    transform: scale(1.0);
+    justify-content:center;
+    margin: 300px;
+}
+
+.testo2 h2 {
+    color:#F2970F;
+    font-size: 400%;
+    font-family: sans-serif;
+    transform: scale(1.0);
+    justify-content:center;
+    margin: 300px;
+    right: 20px;
+}
+
+.testo3 p {
+    color: white;
+    font-size: 200%;
+    font-family: sans-serif;
+    transform: scale(1.0);
+    justify-content:center;
+    margin: 300px;
+}
+
+.testo3 h2 {
+    color:#F2970F;
+    font-size: 400%;
+    font-family: sans-serif;
+    transform: scale(1.0);
+    justify-content:center;
+    margin: 300px;
+    right: 20px;
+    
+}
+
+
+footer {
+    max-width: 2000px;
+    background-color:#F2970F;
+    font-weight:lighter;
+    list-style:none;
+    font-size: 25px;
+    margin: 0px;
+    display:flex;
+    justify-content: center;
+}
+
+footer li a {
+color: black;
+font-size: 20px;
+margin: 0px;
+padding: 35px;
+list-style: none;
+display: flex;
+font-weight:bolder;
+text-decoration: none;
+justify-content: center;
+
+}
